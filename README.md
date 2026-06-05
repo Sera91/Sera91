@@ -5,10 +5,11 @@ I'm Serafina, a researcher in AI for Science working at the Abdus Salam Internat
 🔬 Research interests:
 - Causal discovery
 - Scientific machine learning
-- Climate AI
+- Astrophyisics
+- AI 4 Climate
 - High-performance computing
 
-📍 Based in Trieste, Itali
+📍 Based in Trieste, Italy
 
 📫 How to reach me:  sdigioia@ictp.it
 
