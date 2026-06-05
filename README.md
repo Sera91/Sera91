@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Sera91/Sera91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Serafina, a researcher in AI for Science working at the Abdus Salam International Centre for Theoretical Physics (ICTP)
 
-Here are some ideas to get you started:
+🔬 Research interests:
+- Causal discovery
+- Scientific machine learning
+- Climate AI
+- High-performance computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Trieste, Itali
+
+📫 How to reach me:  sdigioia@ictp.it
+
