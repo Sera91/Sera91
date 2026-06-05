@@ -26,7 +26,7 @@ I'm Serafina, a researcher in AI for Science working at the Abdus Salam Internat
 `sdigioia@ictp.it`
 
 🔗 **Links**
-- Linkedin: [mypage] (https://www.linkedin.com/in/serafina-di-gioia-ai)
+- Linkedin: [mypage](https://www.linkedin.com/in/serafina-di-gioia-ai)
 - Google Scholar: [publications](https://scholar.google.com/citations?user=12eK0xIAAAAJ&hl=it)
 
 📍 Based in **Trieste, Italy**
